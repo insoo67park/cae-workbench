@@ -20,6 +20,9 @@ User can access and use workbench with his web browser.
 - Job submit into job scheduler (ex: IBM LSF)
 - Job status monitoring
   - Job cancel/restart could be performed by user in monitoring UI
+  - Job processing status and processing log with status
+- Job result
+  - Viewer for job result
 - Many kind of commercial Job scheduler should be supported.
 4. Library management
 - In-house library (python, bash, TCL) should be managed and re-used by user (engineer)
